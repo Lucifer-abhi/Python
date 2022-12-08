@@ -1,0 +1,8 @@
+x=int(input("Enter an integer value:"))
+y=int(input("Enter an integer value:"))
+print(x>>y)
+print(x<<y)
+print(x&y)
+print(x|y)
+print(~x)
+print(x^y)
